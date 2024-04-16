@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat on a bread
+* source:	https://sketchfab.com/3d-models/cat-on-a-bread-1bc4f5a45eec4aee92459e12d357afda
+* author:	lumhuimin (https://sketchfab.com/lumhuimin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat on a bread" (https://sketchfab.com/3d-models/cat-on-a-bread-1bc4f5a45eec4aee92459e12d357afda) by lumhuimin (https://sketchfab.com/lumhuimin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
