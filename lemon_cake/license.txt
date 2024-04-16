@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lemon Cake
+* source:	https://sketchfab.com/3d-models/lemon-cake-a3b6180f2d8d4655a7b1963c4eba00ab
+* author:	Tigersday (https://sketchfab.com/Tigersday)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lemon Cake" (https://sketchfab.com/3d-models/lemon-cake-a3b6180f2d8d4655a7b1963c4eba00ab) by Tigersday (https://sketchfab.com/Tigersday) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
